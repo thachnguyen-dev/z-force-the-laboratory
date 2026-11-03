@@ -1,0 +1,11 @@
+{
+    "name": "ZombieGame.Editor",
+    "rootNamespace": "ZombieGame.EditorTools",
+    "references": [
+        "ZombieGame",
+        "Unity.AI.Navigation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

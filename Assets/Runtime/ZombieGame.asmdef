@@ -1,0 +1,21 @@
+{
+    "name": "ZombieGame",
+    "rootNamespace": "ZombieGame",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.AI.Navigation",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.Collections",
+        "Unity.Netcode.Runtime",
+        "Unity.Networking.Transport",
+        "Unity.Services.Core",
+        "Unity.Services.Authentication",
+        "Unity.Services.Multiplayer",
+        "UnityEngine.UI",
+        "Unity.Purchasing",
+        "Unity.LevelPlay",
+        "Unity.Advertisement.IosSupport"
+    ],
+    "autoReferenced": true
+}

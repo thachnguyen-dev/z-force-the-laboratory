@@ -1,0 +1,22 @@
+{
+    "name": "ZombieGame.Tests.PlayMode",
+    "references": [
+        "ZombieGame",
+        "Unity.AI.Navigation",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Unity.Netcode.Runtime",
+        "Unity.Collections",
+        "Unity.Services.QoS",
+        "Unity.Services.Core",
+        "Unity.Services.Authentication"
+    ],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
+}
